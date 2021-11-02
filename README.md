@@ -1,12 +1,15 @@
-### Olá eu sou Alexandre, um desenvolvedor Full Stack com mais foco no Backend.
+### Olá eu sou Alexandre.
+### Sou um desenvolvedor Full Stack com mais foco no Backend.
 
 - 🔭 No momento estou trabalhando com BFF, microserviços usando Spring Boot com Java 8 e 11.
 
 - 🌱 Estou aprendendo Angular e Typescript.
 
+- ⚙️ Uso servidores Windows e Linux
+
+- 🛠 Linguagens, frameworks e DBs:
 
 </div>
- -🛠 Linguagens, frameworks e DBs:
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
