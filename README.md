@@ -1,5 +1,4 @@
-<div style="background-color: grey">
-### Olá eu sou Alexandre.
+### Olá eu sou Alexandre.👋
 ### Sou um desenvolvedor Full Stack com mais foco no Backend.
 
 - 🔭 No momento estou trabalhando com BFF, microserviços usando Spring Boot com Java 8 e 11.
@@ -31,5 +30,4 @@
   <a href="https://github.com/asreal089">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asreal089&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asreal089&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 </div>
