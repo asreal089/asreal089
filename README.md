@@ -1,3 +1,4 @@
+<div style="background-color: grey">
 ### Olá eu sou Alexandre.
 ### Sou um desenvolvedor Full Stack com mais foco no Backend.
 
@@ -10,7 +11,6 @@
 - 🛠 Linguagens, frameworks e DBs:
 
 </div>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
@@ -25,7 +25,11 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  
 </div>
 <br />
+
+- 📊 Dados do perfil:
 <div align="center">
   <a href="https://github.com/asreal089">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asreal089&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asreal089&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+</div>
