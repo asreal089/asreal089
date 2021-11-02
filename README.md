@@ -3,7 +3,7 @@
 
 - 🔭 No momento estou trabalhando com BFF, microserviços usando Spring Boot com Java 8 e 11.
 
-- 🌱 Estou aprendendo Angular e Typescript.
+- 🌱 Estou praticando Angular e Typescript.
 
 - ⚙️ Uso servidores Windows e Linux
 
