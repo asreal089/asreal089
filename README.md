@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="https://thumbs2.imgbox.com/c0/85/ea2gNcfl_t.jpg" alt="ti"/>
-</div>
 <h2 align="center"> Contato:</h2>
 
 
@@ -23,7 +20,7 @@
 <p align="center">🔭 No momento estou trabalhando com Java 11 e 17.</p>
  <p align="center">usando microserviços com Spring Boot e Apache Camel e cloud de Azure.</p>
 
-<p align="center">🌱 Estou praticando Nextjs.</p>
+<p align="center">🌱 Estou praticando Nextjs, e aprendendo React Native e GO.</p>
 
 <div align="center"> 🚀 Minhas Skills </div>
 
