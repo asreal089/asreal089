@@ -61,9 +61,16 @@
 
 </div>
 
+
+
+<h2 align="center">📊 Dados do perfil:</div>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asreal089&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
+  <div align="center">
+    <img  src="https://github-profile-trophy.vercel.app/?username=asreal089&theme=tokyonight&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" />    
+  </div>
 <h2 align="center"> Contato:</h2>
-
-
 <p align="center">
   <a href="mailto:lexx_89@hotmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
@@ -74,12 +81,4 @@
   <a href="https://wa.me/5519997253215" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
-
-<h2 align="center">📊 Dados do perfil:</div>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asreal089&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-  <div align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=asreal089&theme=tokyonight&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" />    
-  </div>
 
