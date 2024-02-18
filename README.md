@@ -65,7 +65,7 @@
 
 <h2 align="center">📊 Dados do perfil:</div>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asreal089&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asreal089&layout=compact&hide=css,html&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
   <div align="center">
     <img  src="https://github-profile-trophy.vercel.app/?username=asreal089&theme=tokyonight&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" />    
