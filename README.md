@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="#">
-  <img src="https://imgbox.com/KSPyIEfo"/>
+  <img src="https://thumbs2.imgbox.com/2a/e3/KSPyIEfo_t.png"/>
 
 </div>
 
