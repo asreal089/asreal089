@@ -1,9 +1,5 @@
 
-<div align="center">
-  <a href="#">
-  <img src="https://thumbs2.imgbox.com/2a/e3/KSPyIEfo_t.png"/>
 
-</div>
 
 
 <div align="center"> Olá eu sou Alexandre.👋</div>
