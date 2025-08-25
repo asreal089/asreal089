@@ -65,9 +65,7 @@
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asreal089&layout=compact&hide=css,html&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
-  <div align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=asreal089&theme=tokyonight&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" />    
-  </div>
+
 <h2 align="center"> Contato:</h2>
 <p align="center">
   <a href="mailto:lexx_89@hotmail.com" alt="Gmail">
